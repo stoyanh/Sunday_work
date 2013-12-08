@@ -12,3 +12,9 @@
 *.la
 *.a
 *.exe
+
+trinity.cbp
+trinity.depend
+trinity.layout
+bin/
+obj/
